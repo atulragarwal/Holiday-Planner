@@ -1,3 +1,5 @@
 const pool=require('./pool');
 
-const 
+const validateName=({
+
+});
