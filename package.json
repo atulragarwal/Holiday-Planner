@@ -19,6 +19,8 @@
   "homepage": "https://github.com/soumya17052002/Holiday-Planner#readme",
   "dependencies": {
     "autoprefixer": "^9.8.6",
+    "express": "^4.17.1",
+    "pg": "^8.4.0",
     "postcss": "^8.1.1",
     "postcss-cli": "^8.0.0",
     "tailwindcss": "^1.8.11"
