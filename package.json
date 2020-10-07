@@ -1,0 +1,26 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "DBMS Project",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumya17052002/Holiday-Planner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soumya17052002/Holiday-Planner/issues"
+  },
+  "homepage": "https://github.com/soumya17052002/Holiday-Planner#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.1.1",
+    "postcss-cli": "^8.0.0",
+    "tailwindcss": "^1.8.11"
+  }
+}
